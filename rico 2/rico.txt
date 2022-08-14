@@ -1,0 +1,8 @@
+Version=3.96
+Account=prinaflicen
+Password=Whatever666*
+Gmail=enjoystore
+START_ACC=1
+DOMAIN=@protonmail.com
+BEHIND=1
+FROM BEHIND=yes
